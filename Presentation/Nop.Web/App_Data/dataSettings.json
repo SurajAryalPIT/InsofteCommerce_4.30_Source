@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Data Source=INSOFT-DPC-002\\INSOFTDATASTD;Initial Catalog=DbNopCommerce;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=L@xmir1n1",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}
